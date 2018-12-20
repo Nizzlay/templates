@@ -1,1 +1,2 @@
 *.applescript diff=scpt
+*.scpt diff=scpt
